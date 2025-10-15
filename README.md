@@ -1,7 +1,7 @@
-# RideShareX
+# RideAlong
 
 ## Description
-RideShareX is a robust and feature-rich ride-sharing service built with Java, designed to simplify urban commuting. Our platform seamlessly connects riders with nearby drivers, offering real-time tracking, secure payments, and a user-friendly experience. With integrated mapping services, users can track rides in real-time, ensuring a smooth and efficient journey from start to finish
+RideAlong is a robust and feature-rich ride-sharing service built with Java, designed to simplify urban commuting. Our platform seamlessly connects riders with nearby drivers, offering real-time tracking, secure payments, and a user-friendly experience. With integrated mapping services, users can track rides in real-time, ensuring a smooth and efficient journey from start to finish
 
 ## Key Features:
 
@@ -24,6 +24,4 @@ Detailed instructions on how to install, configure and use RideShareX can be fou
 This project is licensed under the [MIT License](./LICENSE) - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact:
-Have questions or suggestions? Feel free to reach out to us at <mailto>skinyara.30@gmail.com</mailto>.
-
-_Join us in revolutionizing urban transportation with **RideShareX!**_
+Have questions or suggestions? Feel free to reach out to us at <tarungopi2712@gamil.com>.
